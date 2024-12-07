@@ -445,7 +445,7 @@ template {
 }
 
 .hamburger {
-  position: absolute;
+  position: fixed;
   top: 20px;
   right: 30px;
   height: 21px;
@@ -459,7 +459,7 @@ template {
   display: block;
   width: 30px;
   height: 3px;
-  background: #fff;
+  background: #FFA501;
 }
 .hamburger span.long {
   width: 36px;
