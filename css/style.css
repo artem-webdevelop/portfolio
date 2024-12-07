@@ -446,7 +446,7 @@ template {
 
 .hamburger {
   position: fixed;
-  top: 30px;
+  top: 40px;
   right: 40px;
   height: 21px;
   display: flex;
