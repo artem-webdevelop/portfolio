@@ -446,8 +446,8 @@ template {
 
 .hamburger {
   position: fixed;
-  top: 20px;
-  right: 30px;
+  top: 30px;
+  right: 40px;
   height: 21px;
   display: flex;
   flex-direction: column;
